@@ -138,10 +138,9 @@ My goal is to build data-driven solutions that support better decision-making an
 
 | Domain                  | Proficiency  | Details                                         |
 | ----------------------- | ------------ | ----------------------------------------------- |
-| Data Analytics          | Advanced     | Data Cleaning, Exploration, KPI Tracking        |
+| Data Analytics          | Advanced     | Data Cleaning, Exploration                      |
 | SQL Analytics           | Advanced     | Joins, Aggregations, Subqueries, Trend Analysis |
 | Data Visualization      | Advanced     | Power BI, Excel Dashboards, Matplotlib, Seaborn |
-| Business Intelligence   | Intermediate | Reporting and Decision Support                  |
 | Machine Learning        | Intermediate | Classification, Feature Engineering             |
 | Predictive Analytics    | Intermediate | Forecasting and Trend Analysis                  |
 | Time Series Forecasting | Intermediate | Facebook Prophet                                |
