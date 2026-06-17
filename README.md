@@ -417,8 +417,6 @@ A machine learning and NLP-based solution designed to identify mental health ind
 
 </div>
 
-> **Note:** After creating your GitHub Profile Repository, enable a GitHub Action to generate the snake animation automatically.
-
 ---
 
 # Current Focus
