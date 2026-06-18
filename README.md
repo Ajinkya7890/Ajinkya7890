@@ -237,15 +237,15 @@ An interactive analytics platform that performs sentiment classification and vis
 
 A data analytics project focused on uncovering job market trends, salary insights, and skill demand through advanced SQL querying techniques.
 
-| Category   | Details                         |
-| ---------- | ------------------------------- |
-| Stack      | SQL, PostgreSQL                 |
-| Domain     | Labor Market Analytics          |
-| Analysis   | Salary Trends & Skill Demand    |
-| Dataset    | Large-Scale Job Posting Data    |
-| Techniques | Joins, Aggregations, Subqueries |
-| Impact     | Data-Driven Career Insights     |
-| Repository | Academic Project                |
+| Category   | Details                                                                                          |
+| ---------- | ------------------------------------------------------------------------------------------------ |     
+| Stack      | SQL, PostgreSQL                                                                                  |
+| Domain     | Labor Market Analytics                                                                           |
+| Analysis   | Salary Trends & Skill Demand                                                                     |
+| Dataset    | Large-Scale Job Posting Data                                                                     |
+| Techniques | Joins, Aggregations, Subqueries                                                                  |
+| Impact     | Data-Driven Career Insights                                                                      |
+| Repository | <a href="https://github.com/Ajinkya7890/sql-data-analyst-job-trends-analysis">View Project</a>   |             
 
 ### Key Highlights
 
