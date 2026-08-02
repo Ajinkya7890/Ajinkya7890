@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://ajinkyamaricheportfolio.vercel.app/">
-  <img src="./portfolio-icon.png" width="35" alt="Portfolio"/>
+  <img src="./portfolio-icon.png.png" width="35" alt="Portfolio"/>
   <br>
   <b>Portfolio</b>
 </a>
