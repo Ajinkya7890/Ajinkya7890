@@ -10,7 +10,7 @@
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-CSE\(Data%20Science\)-7C3AED?style=for-the-badge)
 ![SVPCET](https://img.shields.io/badge/SVPCET-Nagpur-A855F7?style=for-the-badge)
-![CGPA](https://img.shields.io/badge/CGPA-8.10-6366F1?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-8.06-6366F1?style=for-the-badge)
 
 <br><br>
 
