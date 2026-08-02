@@ -31,9 +31,7 @@
 </a>
 
 <a href="https://ajinkyamaricheportfolio.vercel.app/">
-  <img src="./portfolio-icon.png.png" width="35" alt="Portfolio"/>
-  <br>
-  <b>Portfolio</b>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-7C3AED?style=for-the-badge"/>
 </a>
 
 <br><br>
