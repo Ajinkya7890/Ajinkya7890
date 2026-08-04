@@ -70,7 +70,7 @@ My goal is to build data-driven solutions that support better decision-making an
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp"/>
+<img src="https://skillicons.dev/icons?i=python"/>
 
 <br><br>
 
